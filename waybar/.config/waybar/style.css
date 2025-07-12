@@ -1,0 +1,114 @@
+@import "macchiato.css";
+
+* {
+  font-family: FiraCode Nerd Font Medium;
+  font-size: 13px;
+  min-height: 0;
+}
+
+#waybar {
+  background: transparent;
+  color: @text;
+  margin: 0;
+  padding: 0;
+}
+
+#workspaces {
+  border-color: @surface0;
+  border-radius: 1rem;
+  margin: 5px;
+  background-color: transparent;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+#workspaces button {
+  color: @surface0;
+  border-radius: 1rem;
+  padding-left: 0.45rem;
+  padding-right: 0.45rem;
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
+}
+
+#workspaces button.active {
+  color: @text;
+  background-color: @surface0;
+  border-color: transparent;
+}
+
+#workspaces button:hover {
+  color: @text;
+  border-color: transparent;
+  background-color: @surface2;
+}
+
+#window {
+  color: @surface0;
+}
+
+#custom-music,
+#tray,
+#backlight,
+#clock,
+#battery,
+#pulseaudio,
+#custom-lock,
+#custom-power {
+  background-color: @surface0;
+  padding: 0.5rem 1rem;
+  margin: 5px 0;
+}
+
+#clock {
+  color: @peach;
+  border-radius: 0px 1rem 1rem 0px;
+  margin-right: 1rem;
+}
+
+#battery {
+  color: @green;
+}
+
+#battery.charging {
+  color: @green;
+}
+
+#battery.warning:not(.charging) {
+  color: @red;
+}
+
+#backlight {
+  color: @yellow;
+}
+
+#backlight, #battery {
+    border-radius: 0;
+}
+
+#pulseaudio {
+  color: @maroon;
+  border-radius: 1rem 0px 0px 1rem;
+  margin-left: 1rem;
+}
+
+#custom-music {
+  color: @mauve;
+  border-radius: 1rem;
+}
+
+#custom-lock {
+    border-radius: 1rem 0px 0px 1rem;
+    color: @lavender;
+}
+
+#custom-power {
+    margin-right: 1rem;
+    border-radius: 0px 1rem 1rem 0px;
+    color: @red;
+}
+
+#tray {
+  margin-right: 1rem;
+  border-radius: 1rem;
+}

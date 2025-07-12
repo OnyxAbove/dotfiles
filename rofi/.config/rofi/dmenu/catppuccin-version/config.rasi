@@ -1,0 +1,6 @@
+configuration {
+    icon-theme: "Tela-blue-dark";
+    show-icons: true;
+    terminal: "kitty";
+}
+@theme "dmenu"

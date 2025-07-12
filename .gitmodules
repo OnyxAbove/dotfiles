@@ -1,0 +1,15 @@
+[submodule "zsh/.config/zdotdir"]
+	path = zsh/.config/zdotdir
+	url = https://github.com/OnyxAbove/zdotdir
+[submodule "zsh/.config/zsh"]
+	path = zsh/.config/zsh
+	url = https://github.com/OnyxAbove/zdotdir
+[submodule "zdotdir"]
+	path = zdotdir
+	url = https://github.com/OnyxAbove/zdotdir
+[submodule "nvim"]
+	path = nvim
+	url = https://github.com/OnyxAbove/nvim
+[submodule "neovim"]
+	path = neovim
+	url = https://github.com/OnyxAbove/neovim

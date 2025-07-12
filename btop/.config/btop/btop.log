@@ -1,0 +1,42 @@
+
+2024/10/08 (17:05:57) | ===> btop++ v.1.4.0
+2024/10/08 (17:05:57) | WARNING: ROCm SMI: Failed to get maximum GPU power draw, defaulting to 225W
+2024/10/08 (17:05:57) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2024/10/08 (17:05:57) | WARNING: ROCm SMI: Failed to get VRAM utilization
+2024/10/08 (17:05:57) | WARNING: ROCm SMI: Failed to get GPU power usage
+2024/10/08 (17:05:57) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2024/10/08 (17:06:13) | ===> btop++ v.1.4.0
+2024/10/08 (17:06:13) | WARNING: ROCm SMI: Failed to get maximum GPU power draw, defaulting to 225W
+2024/10/08 (17:06:13) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2024/10/08 (17:06:13) | WARNING: ROCm SMI: Failed to get VRAM utilization
+2024/10/08 (17:06:13) | WARNING: ROCm SMI: Failed to get GPU power usage
+2024/10/08 (17:06:13) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2024/10/21 (16:31:27) | ===> btop++ v.1.4.0
+2024/10/21 (16:31:27) | WARNING: ROCm SMI: Failed to get maximum GPU power draw, defaulting to 225W
+2024/10/21 (16:31:27) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2024/10/21 (16:31:27) | WARNING: ROCm SMI: Failed to get VRAM utilization
+2024/10/21 (16:31:27) | WARNING: ROCm SMI: Failed to get GPU power usage
+2024/10/21 (16:31:27) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2024/10/23 (14:35:25) | ===> btop++ v.1.4.0
+2024/10/23 (14:35:25) | WARNING: ROCm SMI: Failed to get maximum GPU power draw, defaulting to 225W
+2024/10/23 (14:35:25) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2024/10/23 (14:35:25) | WARNING: ROCm SMI: Failed to get VRAM utilization
+2024/10/23 (14:35:25) | WARNING: ROCm SMI: Failed to get GPU power usage
+2024/10/23 (14:35:25) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2024/10/23 (14:37:11) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/10/23 (14:37:11) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+2024/10/23 (14:37:11) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2024/10/23 (14:37:11) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2024/10/23 (14:48:51) | ===> btop++ v.1.4.0
+2024/10/23 (14:48:51) | WARNING: ROCm SMI: Failed to get maximum GPU power draw, defaulting to 225W
+2024/10/23 (14:48:51) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2024/10/23 (14:48:51) | WARNING: ROCm SMI: Failed to get VRAM utilization
+2024/10/23 (14:48:51) | WARNING: ROCm SMI: Failed to get GPU power usage
+2024/10/23 (14:48:51) | WARNING: ROCm SMI: Failed to get PCIe throughput
+
+2025/03/31 (16:17:24) | ===> btop++ v.1.4.0
+2025/03/31 (16:17:24) | WARNING: Failed to join _runner thread on exit!

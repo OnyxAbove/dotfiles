@@ -13,3 +13,6 @@
 [submodule "neovim"]
 	path = neovim
 	url = https://github.com/OnyxAbove/neovim
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/OnyxAbove/zdotdir

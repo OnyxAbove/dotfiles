@@ -83,7 +83,7 @@ assume_yes = true
 
 # Commands to run before anything
 [pre_commands]
-".Update Mirrors" = "sudo reflector -c US --protocol https --latest 20 --sort rate --save /etc/pacman.d/mirrorlist"
+# ".Update Mirrors" = "sudo reflector -c US --protocol https --latest 20 --sort rate --save /etc/pacman.d/mirrorlist"
 "Update Arch Keyring" = "sudo pacman -Sy archlinux-keyring chaotic-keyring pacman-mirrorlist chaotic-mirrorlist --needed --noconfirm"
 # "Emacs Snapshot" = "rm -rf ~/.emacs.d/elpa.bak && cp -rl ~/.emacs.d/elpa ~/.emacs.d/elpa.bak"
 #"DNF5 Upgrade" = "sudo dnf5 makecache -y && sudo dnf5 distro-sync -y"
